@@ -1,5 +1,3 @@
-#include <LPC21xx.H>
-#include <stdio.h>
 #include"header.h"
 
 #define FLAME  ((IOPIN0>>14)&1)
